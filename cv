@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+float r;
+cout<< "enter Raduis:" <<endl;
+cin>>r;
+cout<<"Masahat="<<r*r*3.14<<endl;
+cout<<"Mohit="<<2*r*3.14;
+    return 0;
+}
+
+
